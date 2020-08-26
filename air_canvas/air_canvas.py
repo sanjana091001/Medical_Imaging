@@ -58,6 +58,12 @@ while True:
         print(thearray)
         np.save('penvalue', thearray)
         break
+    if key==ord('s'):
+        thearray = [[l_h,l_s,l_v], [u_h,u_v,u_s]]
+        print(thearray)
+        
+        np.save('penvalue',thearray)
+        break
 cap.release()
     
  
