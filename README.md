@@ -1,5 +1,5 @@
 # opencv_exps
-random scripts I wrote while experimenting with opencv, using python
+learning opencv
 
 opencv is a cross-platform library used for image processing, video analysis and computer vision.
 supports many languages like java, python, c++ etc
